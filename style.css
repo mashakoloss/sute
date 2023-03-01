@@ -1,0 +1,358 @@
+body {
+    position: relative;
+width: 1440px;
+height: 3455px;
+
+background: #14206B;
+background-blend-mode: overlay;
+mix-blend-mode: normal;
+}
+
+.fon {
+    background-image: url(/front/fon.png);
+    background-repeat: no-repeat;
+    background-position: top 0px right 0px;
+}
+
+p1{
+    position: absolute;
+width: 91px;
+height: 16px;
+left: 135px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+p2{
+    position: absolute;
+width: 79px;
+height: 16px;
+left: 286px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+p3{
+    /* Кафедра */
+
+
+position: absolute;
+width: 55px;
+height: 16px;
+left: 425px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+figure{
+    /* Rectangle 53 */
+
+
+position: absolute;
+width: 37px;
+height: 10px;
+left: 405px;
+top: 25px;
+
+background: rgba(204, 200, 252, 0.35);
+border-radius: 20px;
+}
+p4{
+    position: absolute;
+width: 41px;
+height: 16px;
+left: 540px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+img{
+    position: absolute;
+    width: 132px;
+    height: 106px;
+    left: 654px;
+    top: 9px;
+    
+    background: url(knteu_logo_200.png);;
+}
+
+p5{
+    position: absolute;
+width: 108px;
+height: 16px;
+left: 846px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+p6{
+    position: absolute;
+width: 61px;
+height: 16px;
+left: 996px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+p7{
+    /* Контакти */
+
+
+position: absolute;
+width: 59px;
+height: 16px;
+left: 1092px;
+top: 33px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+p8{
+    /* Події та популярні запитання-відповіді */
+
+
+position: absolute;
+width: 127px;
+height: 32px;
+left: 1186px;
+top: 25px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+figure1{
+   /* Rectangle 26 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 76px;
+height: 36px;
+left: 1229px;
+top: 97px;
+
+border: 0.7px solid #000000;
+border-radius: 67px;
+}
+
+figure2{
+    /* Ellipse 6 */
+    border-radius: 30px;
+position: absolute;
+width: 28px;
+height: 28px;
+left: 1233px;
+top: 101px;
+
+background: #D9D9D9;
+}
+
+figure3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 76px;
+height: 36px;
+left: 1121px;
+top: 97px;
+
+border: 0.7px solid #000000;
+border-radius: 67px;
+ }
+ 
+ figure4{
+     /* Ellipse 6 */
+     border-radius: 30px;
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: 1127px;
+top: 101px;
+
+background: #D9D9D9;
+ }
+
+ p9{
+    /* EN */
+
+
+position: absolute;
+width: 19px;
+height: 16px;
+left: 1168px;
+top: 107px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+ p10{
+    /* UA */
+
+
+position: absolute;
+width: 19px;
+height: 16px;
+left: 1131px;
+top: 107px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #000000;
+ }
+
+ figure5{
+    /* Rectangle 44 */
+
+
+position: absolute;
+width: 250px;
+height: 40px;
+left: 135px;
+top: 97px;
+
+background: #D9D9D9;
+border-radius: 20px;
+ }
+
+ p11{
+    /* Пошук */
+
+
+position: absolute;
+width: 42px;
+height: 16px;
+left: 178px;
+top: 109px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #464646;
+}
+
+p12{
+    /* <body> <h1> */
+
+
+position: absolute;
+width: 48px;
+height: 32px;
+left: 135px;
+top: 207px;
+
+font-family: 'Philosopher';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: rgba(255, 255, 255, 0.45);
+}
+
+p0{
+    /*foto lupa */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 151px;
+top: 110px;
+
+background: url(lupa.png) repeat;
+
+}
